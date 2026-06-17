@@ -1,0 +1,10 @@
+{
+  "blocked_apps": [
+    "C:\\Program Files\\WindowsApps\\Discord.exe",
+    "steam.exe",
+    "Notepad.exe"
+  ],
+  "start_time": "14:06",
+  "end_time": "17:00",
+  "check_interval_seconds": 30
+}
